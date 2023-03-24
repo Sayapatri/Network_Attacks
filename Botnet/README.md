@@ -10,8 +10,8 @@ A botnet is a network of computers or devices that have been compromised by malw
 
 5. Profit: The attacker can profit from the botnet in various ways, such as selling access to the botnet to other criminals, using the botnet to mine cryptocurrency, or using the botnet to carry out fraudulent activities.
 
-Botnets can be difficult to detect and dismantle, as they are often distributed across many different devices and networks. It's important to take steps to protect yourself from becoming part of a botnet, such as keeping your software and devices up-to-date, using strong and unique passwords, and being wary of suspicious emails and links. It's also recommended to use reputable antivirus software and to monitor your network traffic for any suspicious activity.
+Botnets can be difficult to detect and dismantle, as they are often distributed across many different devices and networks. It's important to take steps to protect yourself from becoming part of a botnet, such as keeping your software and devices up-to-date, using strong and unique passwords, and being wary of suspicious emails and links. It's also recommended to use reputable antivirus software and to monitor your netwo..rk traffic for any suspicious activity.
 
 
 
-
+..
